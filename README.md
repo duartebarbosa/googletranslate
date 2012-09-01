@@ -71,14 +71,14 @@ Available Languages
 Any two languages from the list above can be translated.
 
 
-Project Admins : joao_trindade
-Developers :
-	joao_trindade
-	duartebarbosa
-	rsancho
-	j_ricardo
-Development Status : 2 - Pre-Alpha
-Intended Audience : Developers
-License : GNU Library or Lesser General Public License (LGPL)
-Operating System : OS Independent (Written in an interpreted language)
-Programming Language : Python
+	Project Admins : joao_trindade
+	Developers :
+		joao_trindade
+		duartebarbosa
+		rsancho
+		j_ricardo
+	Development Status : 2 - Pre-Alpha
+	Intended Audience : Developers
+	License : GNU Library or Lesser General Public License (LGPL)
+	Operating System : OS Independent (Written in an interpreted language)
+	Programming Language : Python
