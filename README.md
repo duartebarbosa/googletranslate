@@ -1,43 +1,35 @@
-READme first!
-
 Python - Google Translate Api
 
 This project consists on a Python Library to translate Words via the online translation service at Google.
 
-________________________________________________
 
-File structure:
+File Structure
+==============
 
-|/ - Project Root
-|/doc - Documentation Files
-|/src - Source Files
-|/src/trunk - Stable code
-|/src/branches - Experimental Branches
-|/src/branches/v3 - Branch for python 3.0
+	.	- Source Files
+	v3	- Branch for python 3.0
 
-Requirements:
+Requirements
+============
 
- # We recommend a PC, but you can use PS3 too..
- * Some available flops
- * Python 2.5 or Higher
- * Packages:
- ** urllib
- ** urllib2
- ** simplejson
+	* Python 2.5 or Higher
+	* Packages: urllib, urllib2, simplejson
 
-How to run:
+How to run
+==========
 
-    This project is intended to be used as a library. However, if you want to use it directly, simply type (in the /src/trunk folder):
+	This project is intended to be used as a library. However, if you want to use it directly, simply type (in the /src/trunk folder):
 
-        $> python __init__.py
+        	$> python __init__.py
 
-    Then follow the instructions on the screen.
+	Then follow the instructions on the screen.
 
-    For a list of available options please enter:
+	For a list of available options please enter:
 
-        $> python __init__.py --help
+		$> python __init__.py --help
 
-Available Languages:
+Available Languages
+===================
 
 	ARABIC
 	BULGARIAN
@@ -78,18 +70,15 @@ Available Languages:
 
 Any two languages from the list above can be translated.
 
-________________________________________________
 
-# Project Admins : joao_trindade
-# Developers :
+Project Admins : joao_trindade
+Developers :
 	joao_trindade
 	duartebarbosa
 	rsancho
 	j_ricardo
-# Development Status : 2 - Pre-Alpha
-# Intended Audience : Developers
-# License : GNU Library or Lesser General Public License (LGPL)
-# Operating System : OS Independent (Written in an interpreted language)
-# Programming Language : Python 
-# Official Webpage : http://sourceforge.net/projects/googletranslate/
-
+Development Status : 2 - Pre-Alpha
+Intended Audience : Developers
+License : GNU Library or Lesser General Public License (LGPL)
+Operating System : OS Independent (Written in an interpreted language)
+Programming Language : Python
